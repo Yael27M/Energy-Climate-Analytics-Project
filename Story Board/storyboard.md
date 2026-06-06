@@ -44,66 +44,94 @@
 
 ![ACT3](./Images/act3.jpg)
 
-ACT 3 - DATING LAB: LEARNING BY WATCHING (2:00-3:20) - NEW, FUNNY
+**ACT 3 - DATING LAB: LEARNING BY WATCHING (2:00-4:00)**
 
-Scene 7 (2:00-2:20) - Back Inside Embarrassed, Kai ducks back into library, opens laptop. He types "how humans match"
+**Scene 7 (2:00-2:15) - Back Inside**
+- Visual: Embarrassed, Kai ducks back into the library and opens his laptop.
+- Action: He quickly types "how humans match" into the search bar.
 
-Scene 8 : KAI opens SoulMatch dating app. For comic relief, a pop-up ad: "PawMatch - find love for your dog" - he clicks it by accident.
+**Scene 8 (2:15-2:20) - SoulMatch**
+- Visual: KAI opens the SoulMatch dating app. 
+- Action: For comic relief, a pop-up ad reads: "PawMatch - find love for your dog." He clicks it by accident.
 
-Scene 9 : (2:20-2:50) Visual: split screen - left: humans swiping, right: a bulldog in a bowtie swiping on poodles.
+**Scene 9 (2:20-2:30) - Split Screen**
+- Visual: Split screen. Left: Humans swiping. Right: A bulldog in a bowtie swiping on poodles.
 
-Scene 10 : Kai chuckles. Thought bubbles appear around his head (we SEE his mapping):
+**Scene 10 (2:30-2:40) - The Worry**
+- Visual: Back to Kai with a worried face, illuminated by the bright glow of the laptop screen.
 
-Bubble 2: "Static model" → arrow to screen: U = X\\beta + \\epsilon
+**Scene 11 (2:40-3:00) - Holographic Chalk**
+- Visual: Holographic chalk appears in the air: "Static model → U = β1*Sincere + β2*Intelligence + β3*Funny + β4*Attractiveness + ε. Choose if U > 0."
+- **Kai (VO):** "If I can find out how much weight she gives to these parameters, I can know what makes her love me again. I can't ask her directly... but I can watch what she chooses."
 
-Bubble 3: "Dynamic" → arrow to screen: "2 weeks later..."
+**Scene 12 (3:00-3:05) - The Ghosts**
+- Visual: Three ghost "Maras" appear around him, each representing a past choice she made.
 
-Scene x (2:50-3:20) - Zoom into our example (through KAI perspective looking in the laptop) (visual will be like KAI thinking in his head and try to map what he read)
+**Scene 13 (3:05-3:10) - Choice One**
+- Action: Ghost Mara picks a seat next to the climate TA, completely ignoring the varsity jock.
 
-\[This part should put our code example how the static utility and dynamic utility help understand user preferences of picking their mate, this will help KAI to understand "Why" LENA love him and "What if" that thing change what will happen\] 🡪 \[required\] but need to transform the finding into animation format first.
+**Scene 14 (3:10-3:15) - Choice Two**
+- Action: Ghost Mara laughs at the TA's bad pun, ignoring a frat guy's pickup line.
 
-Then eventually, from the result KAI will know what to do next and try to approach to lena (with his new policy) and try to make her fall in love with himself again.
+**Scene 15 (3:15-3:25) - Choice Three**
+- Action: Ghost Mara signs a climate petition, skipping the frat party entirely.
 
-ACT 4 – THE APPROACH: OPTIMIZING THE WRONG THING (3:20-4:15)
+**Scene 16 (3:25-3:40) - The Weights**
+- Visual: Kai drags each ghost into the equation. The weights calculate: SINCERE 0.9, INTELLIGENCE 0.7, FUNNY 0.4, ATTRACTIVENESS 0.1. 
+- **Kai:** "Sincere is 0.9. 2025 Mara is 90 percent heart, 10 percent face." 
+- **Kai (determined):** "But even with a low weight on looks, I have to optimize every variable if I want to win. What's the best sequence of actions to guarantee success?"
 
-**Scene 11 (3:20-3:40) - Kai's "Policy"**
+**Scene 17 (3:40-3:50) - The Meditation**
+- Visual: A glowing cloak wraps around Kai. Time stops. 1,000 ghost Kais appear across the library.
+- **Kai (VO):** "To find the perfect sequence, I went forward in time to view all alternate futures." *(Highlights time as the key to the dynamic utility model).*
 
-- Visual: Kai in coffee shop, Lena at a table across the room.
-- Kai has a notebook filled with data analysis: "Income = positive signal", "Kindness score = beta coefficient", "Time investment = dynamic utility over 2 weeks".
-- Kai walks over with calculated confidence.
-- **Kai:** "Hi Lena. I've analyzed our compatibility metrics. If I increase [quality time] by 30%, your utility function should optimize toward [relationship]=1."
-- Lena looks confused, then uncomfortable.
-- **Lena:** "You... analyzed me?"
-- Kai (proudly): "Structural estimation. I found your hidden preferences."
+**Scene 18 (3:50-3:53) - The Loop Mechanics**
+- Visual: A holographic dynamic model simulates "what if" scenarios. The loop breaks down the four core components of a dynamic utility model:
+  - **Action:** What Kai chooses to do right now (e.g., groom, help with thesis).
+  - **State:** The current reality or environment variables (e.g., Mara's current affection level, her relationship status).
+  - **Transition:** How an Action today changes the State tomorrow (e.g., helping with the thesis increases affection by +2 next week).
+  - **Decision:** Mara's ultimate choice based on the accumulated State over time.
+- Three floating masks hover over the loop to simulate these mechanics:
 
-**Scene 12 (3:40-4:00) - The Challenge**
+**Scene 19 (3:53-3:55) - Simulation A: Extreme Action**
+- Visual: **Mask A ("Surgery now")** overlays the loop. Extreme Action. State: Week 0-4 Affection = 0 (bandaged), Memory fades -1. Transition: Week 5 Affection jumps to 8. Simulation shows 800/1000 paths end with Mara making the Decision to date someone else by week 5. Path turns red. FAIL.
 
-- Visual: Lena stands, crossed arms. The background shifts from coffee shop to a thought-bubble space (dreamlike).
-- **Lena:** "Wait. Did you understand the model, or did you just find a way to manipulate my choices?"
-- Kai stops mid-sentence. Silence.
-- **Lena:** "The model doesn't tell you what to do. It tells you *why* people decide. That's... different."
-- **Kai (realization, VO):** "Oh."
+**Scene 20 (3:55-3:57) - Simulation B: Consistent Action**
+- Visual: **Mask B ("Groom + perfume daily")** overlays the loop. Consistent Action. State: Week 0 Affection +2, Memory +1. Transition: Week 1-3 Affection fades back to 3. Simulation shows 600/1000 paths: she notices, but gets bored. Path turns gray. MEH.
 
-**Scene 13 (4:00-4:15) - The Real Lesson**
+**Scene 21 (3:57-4:00) - Simulation C: Optimal Sequence**
+- Visual: **Mask C ("Groom week 1 → Help thesis week 2-4 → Ask out week 5")** overlays the loop. Actions build over time. State transitions each week: Affection 3→5→6, Memory 0→2→4. Availability flips to single at week 5. Immediate odds each week are low, but Future Value is high. Simulation shows 920/1000 paths end in a successful Decision. Path glows gold.
 
-- Visual: Kai sits alone, the notebook falls from his hands.
-- Cutout animation: pages flip backward, showing all the equations and graphs dissolving.
-- **Kai (VO, slowly):** "I thought I was learning how to win. But the model doesn't optimize choices. It *opens the black box* of choice. It asks: why do people decide the way they do?"
-- Screen fades to white.
-- **Kai (VO):** "And once you understand *why* they choose, you can ask: what if the world changed?"
+**ACT 4 – THE APPROACH: OPTIMIZING THE WRONG THING (4:00-4:15)**
+
+**Scene 22 (4:00-4:05) - The Execution**
+- Visual: Kai stands up and executes "Path C". A fast, heartwarming cutout montage shows him grooming, helping Mara (Lena) with her thesis, and finally sharing a coffee. They smile at each other. He successfully solved the dating problem.
+- **Kai (VO):** "The dynamic model worked. I mapped her choices, found the optimal path, and won her over."
+
+**Scene 23 (4:05-4:10) - The Flicker**
+- Visual: Kai looks out the library window. For a terrifying split-second, the blue sky flickers to the apocalyptic, cracked burning Earth of 2147, then snaps back to normal.
+
+**Scene 24 (4:10-4:12) - The Epiphany**
+- Action: Kai looks down at his notebook. The dating equations dissolve into glowing embers.
+- **Kai (VO, slowly):** "But sitting there, I realized something horrifying. I had just used the most powerful analytical framework in existence... to get a date."
+
+**Scene 25 (4:12-4:15) - The Scale**
+- Visual: Screen slowly zooms out from Kai, framing him against the massive library globe. 
+- **Kai (VO):** "If structural estimation can open the black box of one person's choices to change their future... what happens if we use it on the entire planet?"
+- Action: Screen fades to white.
 
 ---
 
 ## ACT 5 – THE LEAP: FROM LOVE TO STAKES (4:15-5:45)
 
-**Scene 14 (4:15-4:35) - The Realization**
+**Scene 26 (4:15-4:35) - The Realization**
 
 - Visual: Kai back in the library. He closes the Speed Dating notebook. Looks at a shelf with books about climate, energy, policy.
 - **Kai (VO):** "In dating, I observed Lena's choice: yes or no. But I never knew her full preference structure. That gap — that's where structural estimation lives."
 - He pulls down a book: "Energy Transitions and Emissions Policy".
 - **Kai (VO):** "But what if the stakes weren't one person's heart?"
 
-**Scene 15 (4:35-5:00) - Visual Transition: Split Screen**
+**Scene 27 (4:35-5:00) - Visual Transition: Split Screen**
 
 - Left side: Dating profile with "Yes/No" swipe.
 - Right side: A map of Earth with countries colored by emissions status.
@@ -113,14 +141,14 @@ ACT 4 – THE APPROACH: OPTIMIZING THE WRONG THING (3:20-4:15)
 - **Kai (VO):** "In climate policy, we ask: does a country choose green transition? Does it invest in renewables? Does it decarbonize?"
 - The images merge into one.
 
-**Scene 16 (5:00-5:20) - The Connection**
+**Scene 28 (5:00-5:20) - The Connection**
 
 - Visual: Kai opens the Energy & Climate notebook on the laptop.
 - Code appears on screen: `TARGET = "green_transition"`. Y = 1 (country transitions), Y = 0 (country does not).
 - **Kai (VO):** "Same structure. Different stakes. Same structural estimation logic."
 - **Kai (reading, then looking up):** "We do not directly observe *why* a country chooses its energy path. We only observe the choice: transition or not. So we estimate the hidden utility."
 
-**Scene 17 (5:20-5:45) - What's Inside the Black Box?**
+**Scene 29 (5:20-5:45) - What's Inside the Black Box?**
 
 - Visual: Black box opens like a chest.
 - Variables tumble out in cutout style: "GDP per capita", "Energy intensity", "Coal dependence", "Carbon intensity", "Population".
@@ -131,7 +159,7 @@ ACT 4 – THE APPROACH: OPTIMIZING THE WRONG THING (3:20-4:15)
 
 ## ACT 6 – THE MODEL: STRUCTURAL ESTIMATION EXPLAINED (5:45-7:00)
 
-**Scene 18 (5:45-6:15) - The Binary Logit**
+**Scene 30 (5:45-6:15) - The Binary Logit**
 
 - Visual: Abstract mathematical space. A curved S-shaped line (logit curve) appears on screen.
 - On one side: "Not ready to transition" (Y=0). On the other: "Ready to transition" (Y=1).
@@ -141,7 +169,7 @@ ACT 4 – THE APPROACH: OPTIMIZING THE WRONG THING (3:20-4:15)
 - A country data point (e.g., dots representing different nations) scatter across the curve.
 - **Kai (VO):** "Each country-year has a structural index based on its income, energy efficiency, coal dependence, and other factors."
 
-**Scene 19 (6:15-6:45) - The Coefficients: What Matters?**
+**Scene 31 (6:15-6:45) - The Coefficients: What Matters?**
 
 - Visual: Notebook output appears, showing logit model results in a clean, animated format.
 - Bar chart rises: 
@@ -151,7 +179,7 @@ ACT 4 – THE APPROACH: OPTIMIZING THE WRONG THING (3:20-4:15)
 - **Kai (VO):** "Some factors push countries *toward* transition. Others create friction."
 - **Kai (VO):** "This is the hidden utility structure. And now that we've estimated it, we ask the crucial question..."
 
-**Scene 20 (6:45-7:00) - The Power**
+**Scene 32 (6:45-7:00) - The Power**
 
 - Visual: The screen zooms out. All the countries and factors are still visible, but now there is a large question hanging over the scene.
 - **Kai (VO):** "What... if?"
@@ -160,7 +188,7 @@ ACT 4 – THE APPROACH: OPTIMIZING THE WRONG THING (3:20-4:15)
 
 ## ACT 7 – THE COUNTERFACTUAL: POWER OF "WHAT IF?" (7:00-8:30)
 
-**Scene 21 (7:00-7:20) - The First Scenario**
+**Scene 33 (7:00-7:20) - The First Scenario**
 
 - Visual: The logit curve reappears. A country (e.g., India) sits below the threshold, non-transitioning.
 - **Kai (VO):** "Take a coal-dependent country. In 2020, it did not make a green transition. Structural estimation helps us understand *why*."
@@ -170,7 +198,7 @@ ACT 4 – THE APPROACH: OPTIMIZING THE WRONG THING (3:20-4:15)
 - The dot crosses the threshold. The country is now in the "transition" region.
 - **Kai (VO):** "With the model, we can simulate that world and see what might change."
 
-**Scene 22 (7:20-7:50) - Multiple Counterfactuals**
+**Scene 34 (7:20-7:50) - Multiple Counterfactuals**
 
 - Visual: Split screen with 4 scenarios:
   1. **Energy Intensity -30%** (improved efficiency) → more countries transition.
@@ -181,7 +209,7 @@ ACT 4 – THE APPROACH: OPTIMIZING THE WRONG THING (3:20-4:15)
 - Graphs appear showing: baseline transition rate (≈18%), vs. counterfactual scenarios (maybe 35-50%).
 - **Kai (VO):** "If we make clean energy cheaper, improve energy efficiency, and couple it with economic development, the transition accelerates."
 
-**Scene 23 (7:50-8:10) - Why This Matters**
+**Scene 35 (7:50-8:10) - Why This Matters**
 
 - Visual: Kai looks directly at camera (breaks the fourth wall briefly).
 - **Kai:** "This is the true power of structural estimation. We don't just predict. We understand *why* decisions happen, and we simulate *what if* they change."
@@ -189,7 +217,7 @@ ACT 4 – THE APPROACH: OPTIMIZING THE WRONG THING (3:20-4:15)
 - The screen shifts to show a real satellite image of Earth.
 - **Kai (VO, more serious now):** "...this helps us understand how energy systems will evolve. How countries will choose. And how policy can nudge those choices."
 
-**Scene 24 (8:10-8:30) - The Final Message**
+**Scene 36 (8:10-8:30) - The Final Message**
 
 - Visual: Kai stands outside the library, looking at the Earth (a large cutout planet in the sky).
 - The camera pans to show multiple scenes in the background:
@@ -207,7 +235,7 @@ ACT 4 – THE APPROACH: OPTIMIZING THE WRONG THING (3:20-4:15)
 
 ## ACT 8 – CREDITS & METHODOLOGY NOTE (8:30-8:45)
 
-**Scene 25 (8:30-8:45) - Methodology & Assets**
+**Scene 37 (8:30-8:45) - Methodology & Assets**
 
 - Visual: Smooth scroll through key notebooks and datasets used.
 - **Text on screen:**
@@ -234,4 +262,3 @@ ACT 4 – THE APPROACH: OPTIMIZING THE WRONG THING (3:20-4:15)
 
 - **Counterfactual Framework:** Ready for implementation in notebook (Cell 37+)  
   - Can simulate scenarios: carbon intensity ↓, energy efficiency ↑, coal dependence ↓  
-
